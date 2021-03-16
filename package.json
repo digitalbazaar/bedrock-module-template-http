@@ -3,7 +3,9 @@
   "version": "0.0.1-0",
   "description": "Bedrock HTTP API",
   "main": "./lib",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/bedrock-module-template-http"
