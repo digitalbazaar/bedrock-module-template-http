@@ -26,8 +26,8 @@
     "esm": "^3.2.25"
   },
   "peerDependencies": {
-    "bedrock": "^3.1.0",
-    "bedrock-express": "^3.1.0"
+    "bedrock": "^4.1.1",
+    "bedrock-express": "^3.2.0"
   },
   "directories": {
     "lib": "./lib"
