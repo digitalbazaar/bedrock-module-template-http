@@ -26,15 +26,15 @@
     "esm": "^3.2.25"
   },
   "peerDependencies": {
-    "bedrock": "^4.1.1",
-    "bedrock-express": "^3.2.0"
+    "bedrock": "^4.4.0",
+    "bedrock-express": "^5.0.1"
   },
   "directories": {
     "lib": "./lib"
   },
   "devDependencies": {
-    "eslint": "^7.14.0",
-    "eslint-config-digitalbazaar": "^2.6.1"
+    "eslint": "^7.32.0",
+    "eslint-config-digitalbazaar": "^2.8.0"
   },
   "engines": {
     "node": ">=12"
