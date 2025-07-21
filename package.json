@@ -1,8 +1,13 @@
 {
-  "name": "bedrock-module-template-http",
+  "name": "@bedrock/module-template-http",
   "version": "0.0.1-0",
+  "type": "module",
   "description": "Bedrock HTTP API",
-  "main": "./lib",
+  "main": "./lib/index.js",
+  "files": [
+    "lib/**/*.js",
+    "schemas/**/*.js"
+  ],
   "scripts": {
     "lint": "eslint ."
   },
@@ -22,21 +27,21 @@
     "url": "https://github.com/digitalbazaar/bedrock-module-template-http/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-module-template-http",
-  "dependencies": {
-    "esm": "^3.2.25"
-  },
   "peerDependencies": {
-    "bedrock": "^4.4.0",
-    "bedrock-express": "^5.0.1"
+    "@bedrock/core": "^6.3.0",
+    "@bedrock/express": "^8.3.2",
+    "@bedrock/validation": "^7.1.1"
   },
   "directories": {
     "lib": "./lib"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-digitalbazaar": "^2.8.0"
+    "eslint": "^8.57.1",
+    "eslint-config-digitalbazaar": "^5.2.0",
+    "eslint-plugin-jsdoc": "^50.6.8",
+    "eslint-plugin-unicorn": "^56.0.1"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=20"
   }
 }

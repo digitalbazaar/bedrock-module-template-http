@@ -25,14 +25,14 @@ TBD
 
 ## Install
 
-- Node.js 12+ is required.
+- Node.js 20+ is required.
 
 ### NPM
 
 To install via NPM:
 
 ```
-npm install --save bedrock-module-template-http
+npm install --save @bedrock/module-template-http
 ```
 
 ### Development
