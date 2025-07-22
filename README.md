@@ -1,7 +1,7 @@
-# Bedrock HTTP API Module Template _(bedrock-module-template-http)_
+# Bedrock HTTP API Module Template _(@bedrock/module-template-http)_
 
-[![Build Status](https://img.shields.io/github/workflow/status/digitalbazaar/bedrock-module-template-http/Bedrock%20Node.js%20CI)](https://github.com/digitalbazaar/bedrock-module-template-http/actions?query=workflow%3A%22Bedrock+Node.js+CI%22)
-[![NPM Version](https://img.shields.io/npm/v/bedrock-module-template-http.svg)](https://npm.im/bedrock-module-template-http)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/digitalbazaar/bedrock-module-temlpate-http/main.yaml)](https://github.com/digitalbazaar/bedrock-module-template-http/actions/workflows/main.yaml)
+[![NPM Version](https://img.shields.io/npm/v/@bedrock/module-template-http.svg)](https://npm.im/@bedrock/module-template-http)
 
 > A template for HTTP API modules for Bedrock applications.
 

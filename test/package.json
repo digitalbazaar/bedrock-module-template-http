@@ -23,10 +23,10 @@
   "c8": {
     "excludeNodeModules": false,
     "include": [
-      "node_modules/@bedrock/bedrock-recaptcha/**"
+      "node_modules/@bedrock/module-template-http/**"
     ],
     "exclude": [
-      "node_modules/@bedrock/bedrock-recaptcha/node_modules/**"
+      "node_modules/@bedrock/module-template-http/node_modules/**"
     ],
     "reporter": [
       "lcov",
