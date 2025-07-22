@@ -11,4 +11,4 @@ export const example = {
   properties: {
     id: schemas.identifier()
   }
-}
+};
