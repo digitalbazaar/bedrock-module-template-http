@@ -25,7 +25,10 @@ TBD
 
 ## Install
 
-- Node.js 20+ is required.
+This software requires and supports maintained recent versions of Node.js.
+Updates may remove support for older unmaintained platform versions. Please use
+dependency version lock files and testing to ensure compatibility with this
+software.
 
 ### NPM
 
@@ -51,11 +54,11 @@ Describe configuration, usage.
 
 ## Contribute
 
-See [the contribute file](https://github.com/digitalbazaar/bedrock/blob/master/CONTRIBUTING.md)!
+See [the contributing file](https://github.com/digitalbazaar/bedrock/blob/master/CONTRIBUTING.md).
 
 PRs accepted.
 
-If editing the Readme, please conform to the
+If editing README.md, please conform to the
 [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ## Commercial Support
