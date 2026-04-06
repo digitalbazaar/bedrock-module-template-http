@@ -29,7 +29,7 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-module-template-http",
   "peerDependencies": {
     "@bedrock/core": "^6.3.0",
-    "@bedrock/express": "^8.3.2",
+    "@bedrock/express": "^8.6.0",
     "@bedrock/validation": "^7.1.1"
   },
   "directories": {
