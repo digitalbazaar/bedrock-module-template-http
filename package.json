@@ -9,6 +9,7 @@
     "schemas/**/*.js"
   ],
   "scripts": {
+    "test": "cd test && npm run test",
     "lint": "eslint ."
   },
   "repository": {
